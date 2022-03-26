@@ -22,5 +22,13 @@
   "main": "app.js",
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdjaroPatoussi/BackendNode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AdjaroPatoussi/BackendNode/issues"
+  },
+  "homepage": "https://github.com/AdjaroPatoussi/BackendNode#readme",
   "description": ""
 }
